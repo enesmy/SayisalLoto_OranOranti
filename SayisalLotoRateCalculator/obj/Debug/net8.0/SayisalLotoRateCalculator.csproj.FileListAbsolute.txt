@@ -1,0 +1,14 @@
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\bin\Debug\net8.0\SayisalLotoRateCalculator.exe
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\bin\Debug\net8.0\SayisalLotoRateCalculator.deps.json
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\bin\Debug\net8.0\SayisalLotoRateCalculator.runtimeconfig.json
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\bin\Debug\net8.0\SayisalLotoRateCalculator.dll
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\bin\Debug\net8.0\SayisalLotoRateCalculator.pdb
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.AssemblyInfoInputs.cache
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.AssemblyInfo.cs
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.csproj.CoreCompileInputs.cache
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.dll
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\refint\SayisalLotoRateCalculator.dll
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.pdb
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\SayisalLotoRateCalculator.genruntimeconfig.cache
+c:\Users\enesm\OneDrive\Masaüstü\SayisalLoto_OranOranti\SayisalLotoRateCalculator\obj\Debug\net8.0\ref\SayisalLotoRateCalculator.dll
